@@ -53,3 +53,13 @@ dev_user14/.ssh
         dev_user15/.wget-hsts
         dev_user15/.ssh
         
+
+        # dev_user_test internal directories to ignore
+        dev_user_test/.vscode-server/
+        dev_user_test/.local/
+        dev_user_test/.cache/
+        dev_user_test/snap/
+        dev_user_test/.vscode/
+        dev_user_test/.wget-hsts
+        dev_user_test/.ssh
+        
