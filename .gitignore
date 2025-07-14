@@ -44,3 +44,12 @@ dev_user14/snap/
 dev_user14/.vscode/
 dev_user14/.wget-hsts
 dev_user14/.ssh
+        # dev_user15 internal directories to ignore
+        dev_user15/.vscode-server/
+        dev_user15/.local/
+        dev_user15/.cache/
+        dev_user15/snap/
+        dev_user15/.vscode/
+        dev_user15/.wget-hsts
+        dev_user15/.ssh
+        
