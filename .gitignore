@@ -6,3 +6,12 @@ dev_user1/snap/
 dev_user1/.vscode/
 dev_user1/.wget-hsts
 dev_user1/.ssh
+
+# dev_user8 내부 무시할 디렉토리들
+dev_user8/.vscode-server/
+dev_user8/.local/
+dev_user8/.cache/
+dev_user8/snap/
+dev_user8/.vscode/
+dev_user8/.wget-hsts
+dev_user8/.ssh
