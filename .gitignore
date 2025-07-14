@@ -73,3 +73,13 @@ dev_user14/.ssh
         dev_test_user2/.wget-hsts
         dev_test_user2/.ssh
         
+
+        # madcamp internal directories to ignore
+        madcamp/.vscode-server/
+        madcamp/.local/
+        madcamp/.cache/
+        madcamp/snap/
+        madcamp/.vscode/
+        madcamp/.wget-hsts
+        madcamp/.ssh
+        
