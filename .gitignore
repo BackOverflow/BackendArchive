@@ -1,0 +1,7 @@
+# dev_user1 내부 무시할 디렉토리들
+dev_user1/.vscode-server/
+dev_user1/.local/
+dev_user1/.cache/
+dev_user1/snap/
+dev_user1/.vscode/
+dev_user1/.wget-hsts
