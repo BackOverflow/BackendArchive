@@ -93,3 +93,13 @@ dev_user14/.ssh
         imsnmn/.wget-hsts
         imsnmn/.ssh
         
+
+        # dev_user115 internal directories to ignore
+        dev_user115/.vscode-server/
+        dev_user115/.local/
+        dev_user115/.cache/
+        dev_user115/snap/
+        dev_user115/.vscode/
+        dev_user115/.wget-hsts
+        dev_user115/.ssh
+        
