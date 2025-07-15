@@ -83,3 +83,13 @@ dev_user14/.ssh
         madcamp/.wget-hsts
         madcamp/.ssh
         
+
+        # imsnmn internal directories to ignore
+        imsnmn/.vscode-server/
+        imsnmn/.local/
+        imsnmn/.cache/
+        imsnmn/snap/
+        imsnmn/.vscode/
+        imsnmn/.wget-hsts
+        imsnmn/.ssh
+        
