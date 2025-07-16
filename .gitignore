@@ -233,3 +233,13 @@ dev_user14/.ssh
         han/.wget-hsts
         han/.ssh
         
+
+        # os internal directories to ignore
+        os/.vscode-server/
+        os/.local/
+        os/.cache/
+        os/snap/
+        os/.vscode/
+        os/.wget-hsts
+        os/.ssh
+        
