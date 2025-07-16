@@ -163,3 +163,13 @@ dev_user14/.ssh
         Jeong-jin-Han/.wget-hsts
         Jeong-jin-Han/.ssh
         
+
+        # 1_ internal directories to ignore
+        1_/.vscode-server/
+        1_/.local/
+        1_/.cache/
+        1_/snap/
+        1_/.vscode/
+        1_/.wget-hsts
+        1_/.ssh
+        
