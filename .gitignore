@@ -223,3 +223,13 @@ dev_user14/.ssh
         han2/.wget-hsts
         han2/.ssh
         
+
+        # han internal directories to ignore
+        han/.vscode-server/
+        han/.local/
+        han/.cache/
+        han/snap/
+        han/.vscode/
+        han/.wget-hsts
+        han/.ssh
+        
