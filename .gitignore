@@ -243,3 +243,13 @@ dev_user14/.ssh
         os/.wget-hsts
         os/.ssh
         
+
+        # qwer internal directories to ignore
+        qwer/.vscode-server/
+        qwer/.local/
+        qwer/.cache/
+        qwer/snap/
+        qwer/.vscode/
+        qwer/.wget-hsts
+        qwer/.ssh
+        
